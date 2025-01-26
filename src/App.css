@@ -14,3 +14,12 @@ li {
   border: whitesmoke 3px solid;
   border-radius: 8px;
 }
+img {
+  border-radius: 8px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
